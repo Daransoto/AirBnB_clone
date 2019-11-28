@@ -5,5 +5,5 @@ footer {
 	text-align: center;
 	line-height: 60px;
 	border-top: 1px solid #CCCCCC;
-	clear: both;
+	flex-shrink: 0;
 }
